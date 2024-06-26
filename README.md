@@ -19,11 +19,13 @@ By leveraging advanced analytics and visualization techniques.
 
 #### Data Analysis 📊
 
-💰 Total Profit: $10,247,457
+💰 Total Profit: $10,917,702
 
-📦 Total Products: 3,000
+📦 Total Products:  43,608
 
-📈 Total Sales: $160,073.913
+📈 Total Sales:  $160,073
+
+
 
 
 #### Creating Dynamic Dashboard 
@@ -40,14 +42,7 @@ By leveraging advanced analytics and visualization techniques.
    - **By Category:** Highlighted the most profitable product categories.
 
 
-2. **Sales by Category:** Analyzed sales distribution across different categories to understand performance.
-
-
-3. **Top Product by Profit:** Identified the highest profit-generating product, giving us valuable insights into our best-sellers.
-
-
-4. **Top Category by Profit:** Determined which category yields the highest profit, guiding strategic focus areas for future growth.
-
+2. **Top Product by Quantity:** Identified the highest saled-generating product, giving us valuable insights into our best-sellers.
 
 
 ## Project Outcome 🎯

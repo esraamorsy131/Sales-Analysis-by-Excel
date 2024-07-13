@@ -1,4 +1,4 @@
-# Sales Data Analysis
+# SuperStore Data Analysis
 
 ## Project Overview
 
@@ -33,7 +33,7 @@ By leveraging advanced analytics and visualization techniques.
 
 
 
-##*Key Insights Uncovered:*
+##*Key Insights :*
 
 1. **Profit Analysis:**
    - **By Region:** Identified the most and least profitable regions.

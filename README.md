@@ -7,7 +7,7 @@ By leveraging advanced analytics and visualization techniques.
 
 ## Tools Used 🧑‍💻💻
 
-### Excel
+### Excel(Power Query , Pivpt Tables)
 
 
 #### Data Cleaning 🧽
